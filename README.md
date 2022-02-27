@@ -1,2 +1,2 @@
-# Horiseon-Refactoring_Code
+# Horiseon-RFcode
 Module 1 Assignment - Refactoring Code - Horiseon
